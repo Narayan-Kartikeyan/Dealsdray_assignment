@@ -68,7 +68,4 @@ Thank you for reviewing my assignment for Dealsdray. I look forward to your feed
 
 ```
 
-### Notes:
-- Replace `X.X.X` with the version of Dart SDK you are using.
-- Make sure to adjust any sections as necessary to better fit your project's specifics or personal style.
-- If there are additional features or specific instructions related to your application, feel free to add them under relevant sections.
+
